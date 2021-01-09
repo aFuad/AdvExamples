@@ -10,6 +10,6 @@ We used **filtering.py** file to filter invalid Jpeg images from dataset which r
 **Main.py** is main file to test models with ImageNet-A.
 
 ## Checkpoints
-Use the following link to download checkpoint you would like:
+Use the following link to download checkpoint(s):
 
 https://drive.google.com/drive/folders/1PiMxZbYvAsnXVEWltDfcXlbb1yM4wJ8a?usp=sharing
