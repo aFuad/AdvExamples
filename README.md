@@ -1,7 +1,7 @@
 # Adversarial Images improves Image Recognition
 Adversarial examples are commonly viewed as a threatto ConvNets. Here we present an opposite perspective: adversarial examples can be used to improve image recognition models. We propose an enhanced adversarial training scheme **AdvProp**.
 
-##Testing
+## Testing
 We used ImageNet-A[https://www.kaggle.com/paultimothymooney/natural-adversarial-examples-imageneta] as our dataset which is composed of nearly 7500 images.
 We used Baseline preprocessing, AdvProp and NoisyStudent with B3 and B4 checkpoints of the EfficientNet. 
 We used **filtering.py** file to filtering Invalid Jpeg images from dataset which results crash of the execution of the code. 
