@@ -2,7 +2,7 @@
 Adversarial examples are commonly viewed as a threat to ConvNets. Here an opposite perspective is investigated such that adversarial examples can be used to improve image recognition. We investigate two adversarial training schemes such as **AdvProp**, **NoisyStud**. 
 
 ## Testing
-We used ImageNet-A https://www.kaggle.com/paultimothymooney/natural-adversarial-examples-imageneta as our dataset which is composed of nearly 7500 images.
+We used ImageNet-A (https://www.kaggle.com/paultimothymooney/natural-adversarial-examples-imageneta) as our dataset which is composed of nearly 7500 images.
 We used baseline preprocessing, AdvProp plus AutoAugment and noisyStudent plus RandAugment with B3 and B4 weighting of the EfficientNet (i.e., B3-4 checkpoints are used.). 
 
 
