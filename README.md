@@ -11,4 +11,5 @@ We used **filtering.py** file to filtering Invalid Jpeg images from dataset whic
 
 ## Checkpoints
 Use the following link to download checkpoint you would like:
+
 https://drive.google.com/drive/folders/1PiMxZbYvAsnXVEWltDfcXlbb1yM4wJ8a?usp=sharing
