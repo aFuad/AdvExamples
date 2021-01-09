@@ -4,5 +4,5 @@ to ConvNets. Here we present an opposite perspective: adversarial examples can b
 We used ImageNet-A[https://www.kaggle.com/paultimothymooney/natural-adversarial-examples-imageneta] as our dataset which is composed of nearly 7500 images.
 We used Baseline preprocessing, AdvProp and NoisyStudent with B3 and B4 checkpoints of the EfficientNet. 
 We used **filtering.py** file to filtering Invalid Jpeg images from dataset which results crash of the execution of the code. 
-**Main.py** is main file to test models by ImageNet-A.
+**Main.py** is main file to test models with ImageNet-A.
 
