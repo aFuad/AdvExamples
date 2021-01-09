@@ -9,3 +9,6 @@ We used Baseline preprocessing, AdvProp and NoisyStudent with B3 and B4 checkpoi
 We used **filtering.py** file to filtering Invalid Jpeg images from dataset which results crash of the execution of the code. 
 **Main.py** is main file to test models with ImageNet-A.
 
+## Checkpoints
+Use the following link to download checkpoint you would like:
+https://drive.google.com/drive/folders/1PiMxZbYvAsnXVEWltDfcXlbb1yM4wJ8a?usp=sharing
